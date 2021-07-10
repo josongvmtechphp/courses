@@ -1,0 +1,9 @@
+.navbar {
+    background-color: #000;
+}
+.navbar-brand {
+    color: #fff;
+}
+.navbar-nav {
+    flex-direction: unset;
+}
